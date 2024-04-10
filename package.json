@@ -12,6 +12,9 @@
   },
   "publisher": "jacovanc",
   "categories": [
+    "Programming Languages",
+    "Formatters",
+    "Linters",
     "Other"
   ],
   "activationEvents": [
