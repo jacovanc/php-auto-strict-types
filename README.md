@@ -29,4 +29,4 @@ Initial release of php-auto-strict-types.
 - Checks the entire file to avoid duplicate declarations.
 
 # TODO
--[] Trim spacing around opening <?php tags before adding declaration
+- [] Trim spacing around opening <?php tags before adding declaration

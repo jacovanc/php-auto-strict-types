@@ -29,6 +29,7 @@ async function addStrictTypesDeclaration(document: vscode.TextDocument) {
     }
 
     await vscode.workspace.applyEdit(edit);
+    await document.save(); // Save the document after applying the edit
 }
 
 export function deactivate() {}

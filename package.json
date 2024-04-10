@@ -1,11 +1,16 @@
 {
   "name": "php-auto-strict-types",
-  "displayName": "php-auto-strict-types",
+  "displayName": "PHP - Auto Strict Types",
   "description": "Automatically add strict types declaration on save to PHP files.",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "^1.86.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacovanc/php-auto-strict-types.git"
+  },
+  "publisher": "jacovanc",
   "categories": [
     "Other"
   ],
