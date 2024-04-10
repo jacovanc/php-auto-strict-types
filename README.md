@@ -27,3 +27,6 @@ Initial release of php-auto-strict-types.
 - Automatically adds `declare(strict_types=1);` to PHP files on save.
 - Respects existing PHP opening tags.
 - Checks the entire file to avoid duplicate declarations.
+
+# TODO
+-[] Trim spacing around opening <?php tags before adding declaration
