@@ -20,7 +20,7 @@ No known issues at the moment. If you encounter any problems, please open an iss
 
 ## Release Notes
 This is pre-release. Expect issues.
-### 0.0.11
+### 0.0.12
 
 Initial release of php-auto-strict-types.
 
