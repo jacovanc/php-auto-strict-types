@@ -3,6 +3,7 @@
   "displayName": "PHP - Auto Strict Types",
   "description": "Automatically add strict types declaration on save to PHP files.",
   "version": "0.0.11",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.86.2"
   },
