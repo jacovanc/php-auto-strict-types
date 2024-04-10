@@ -19,8 +19,8 @@ This extension does not require any specific settings. It works out-of-the-box o
 No known issues at the moment. If you encounter any problems, please open an issue in the GitHub repository.
 
 ## Release Notes
-
-### 1.0.0
+This is pre-release. Expect issues.
+### 0.0.11
 
 Initial release of php-auto-strict-types.
 
