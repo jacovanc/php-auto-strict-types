@@ -22,7 +22,7 @@ async function addStrictTypesDeclaration(document: vscode.TextDocument) {
 
     if (firstLine.includes('<?php')) {
         // Add declaration after PHP opening tag
-        edit.insert(document.uri, new vscode.Position(0, firstLine.length), ' declare(strict_types=1); ');
+        edit.insert(document.uri, new vscode.Position(0, firstLine.length), '\n\ndeclare(strict_types=1);');
     } else {
         // Add PHP tags and declaration
         edit.insert(document.uri, new vscode.Position(0, 0), '<?php declare(strict_types=1); ?>\n');
